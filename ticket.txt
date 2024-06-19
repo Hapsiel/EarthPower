@@ -1,0 +1,5 @@
+{"Start":"Moscow","End":"Urupins","SeatCount":15,"Date":"25.12.24","Class":"Bomj","Cost":99,"ID":1}
+{"Start":"Krisjopl","End":"AdNahui","SeatCount":666,"Date":"12.2.666","Class":"Gresnik","Cost":1,"ID":2}
+{"Start":"Moscow","End":"Kreml","SeatCount":2,"Date":"22.4.22","Class":"Lux","Cost":666666,"ID":3}
+{"Start":"Voronezh","End":"Ptrtrburg","SeatCount":120,"Date":"28.11.23","Class":"Econom","Cost":7500,"ID":4}
+{"Start":"IWantSleep","End":"MyBed","SeatCount":1,"Date":"19.6.24","Class":"Sleepy","Cost":0,"ID":5}
